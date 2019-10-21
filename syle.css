@@ -1,0 +1,38 @@
+#homepic {
+    max-height: 700px;
+    wdith: auto;
+}
+
+.intro-section:before {
+    background: #F87060;
+}
+
+h1, h2 {
+    color: #FFF;
+    font-family: sans-serif;
+}
+
+#button {
+    border-color: black;
+}
+
+#button:hover {
+    background-color: #F87060;
+}
+
+.cta a.active > span {
+    background-color: #F87060;
+    color: #FFF;
+}
+
+#about, #work{
+    color: #F87060;
+}
+
+#box {
+    background-color: #F87060;
+}
+
+#cr {
+    font-size: 0;
+}
