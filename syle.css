@@ -36,3 +36,10 @@ h1, h2 {
 #cr {
     font-size: 0;
 }
+
+.process {
+    max-width: 1000px;
+    width: 100%;
+    display: flex;
+    margin: 0 auto;
+}

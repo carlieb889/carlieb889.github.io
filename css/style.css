@@ -121,9 +121,9 @@ h1, h2, h3, h4, h5,
   padding: 2.5em 0; }
   @media (min-width: 768px) {
     .site-section {
-      padding: 5em 0; } }
+      padding: 2em 0; } }
   .site-section.site-section-sm {
-    padding: 4em 0; }
+    padding: 2em 0; }
 
 .site-section-heading {
   padding-bottom: 20px;
@@ -132,13 +132,13 @@ h1, h2, h3, h4, h5,
   font-size: 2.5rem; }
   @media (min-width: 768px) {
     .site-section-heading {
-      font-size: 3rem; } }
+      font-size: 2rem; } }
 
 .border-top {
   border-top: 1px solid #edf0f5 !important; }
 
 .site-footer {
-  padding: 4em 0;
+  padding: 2em 0;
   background: #333333; }
   @media (min-width: 768px) {
     .site-footer {
@@ -640,7 +640,7 @@ h1, h2, h3, h4, h5,
         max-width: 100%; } }
 
 .site-section {
-  padding: 10em 0; }
+  padding: 2.5em 0; }
   @media (max-width: 991.98px) {
     .site-section {
       padding: 4em 0; } }
@@ -672,7 +672,7 @@ h1, h2, h3, h4, h5,
   color: #000;
   margin-bottom: 1.8rem;
   font-weight: 900;
-  max-width: 450px; }
+  max-width: 600px; }
   @media (max-width: 991.98px) {
     .section-title {
       font-size: 1.5rem; } }
@@ -820,7 +820,7 @@ h1, h2, h3, h4, h5,
       background-color: #F87060; }
 
 .footer-section {
-  padding: 7em 0;
+  padding: 4em 0;
   background-color: #fafafa; }
   .footer-section p {
     font-size: 1rem; }
