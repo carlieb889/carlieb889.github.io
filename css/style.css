@@ -703,8 +703,8 @@ h1, h2, h3, h4, h5,
     background: #F87060;
     padding: 30px;
     max-width: 300px;
-    top: -20%;
-    right: -20%; }
+    top: -5%;
+    right: -3%; }
     @media (max-width: 991.98px) {
       .image-absolute-box .box {
         top: auto;

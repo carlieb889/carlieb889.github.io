@@ -1,13 +1,14 @@
 #homepic {
     max-height: 700px;
-    wdith: auto;
+    width: auto;
 }
 
 .intro-section:before {
     background: #F87060;
 }
 
-h1, h2 {
+h1,
+h2 {
     color: #FFF;
     font-family: sans-serif;
 }
@@ -20,26 +21,35 @@ h1, h2 {
     background-color: #F87060;
 }
 
-.cta a.active > span {
+.cta a.active>span {
     background-color: #F87060;
     color: #FFF;
 }
 
-#about, #work{
+#about,
+#work {
     color: #F87060;
 }
 
 #box {
     background-color: #F87060;
+    width: auto;
 }
 
-#cr {
-    font-size: 0;
-}
 
 .process {
     max-width: 1000px;
     width: 100%;
     display: flex;
     margin: 0 auto;
+}
+
+/* @media (max-width: 991.98px) at this media .image-absolute-box .box we need to remove:
+top, right, position. Then we need to fix the top & right position to match the view you'd like
+ */
+
+@media (max-width: 991.98px) {
+    .img-absolute img {
+        max-width: 50%;
+    }
 }
