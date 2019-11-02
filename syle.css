@@ -53,3 +53,20 @@ top, right, position. Then we need to fix the top & right position to match the 
         max-width: 50%;
     }
 }
+
+.icon-pacman:before {
+    content: "\e916";
+  }
+
+.icon-newspaper:before {
+    content: "\e904";
+  }
+
+.work-thumb {
+    max-width: 600px;
+    max-height: 400px;
+}
+
+.myp {
+    margin: 0;
+}
